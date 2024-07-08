@@ -1,0 +1,16 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "N46XY9PYAV.com.idsvn.tuctacteaapp",
+                "paths": [
+                    "/recover/*",
+                    "/settings/*",
+                    "/home/*",
+                    "/*"
+                ]
+            }
+        ]
+    }
+}
